@@ -3,7 +3,7 @@
 你好！
 欢迎光临我的……姑且算是个人主页吧！
 
-![homepage](../index/homepage.png)
+![homepage](./index/homepage.png)
 
 我是一个热爱捣鼓的普通大学生，目前正于浙江大学信息安全专业 (Information Security in Zhejiang University ) 就读本科。
 
