@@ -12,6 +12,3 @@
 我将尽量以最快的速度将页面扩展为我的个人网站并将一些学习过程分享于此，仅作学习交流使用（不过相信也就只有和自己交流罢~）
 
 > 基于 [Nekotora index](https://flag.moe/) 修改，禁止任何商业用途！
-
-git add --all
-git push -u origin main
