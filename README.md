@@ -11,4 +11,4 @@
 
 ## 项目说明
 
-> 基于 [Nekotora index](https://flag.moe/) 修改，禁止任何商业用途！
+> 基于 [Ukenn index](https://github.com/Ukenn2112/Ukenn-index) 修改，禁止任何商业用途！
